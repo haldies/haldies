@@ -6,7 +6,7 @@
 
 ```javascript
 const name = "Haldies Gerhardien Pasya"
-const job = "Front-End web Engineer"
+const job = "Front-End Engineer"
 console.log(`hello my name is ${name} and im currently working as ${job}`)
 ```
 
