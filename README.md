@@ -9,13 +9,14 @@ const name = "Haldies Gerhardien Pasya"
 const job = "Front-End Engineer"
 console.log(`hello my name is ${name} and im currently working as ${job}`)
 ```
-
-<p>
-Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusuma and you can call me Galih. Yes it might be confusing why my username is NoxturneDev instead of GalihDev right? well, tbh we all know that having a nickname is so cool right? so there you go 😁 enough talking and let me introduce my self.
-</p>
-
 <p> 
- Im currently working as Junior Front end web developer, mainly using ReactJs but im interested in Vue also (Please don't hate me react developers 🙏). I'd like to call myself a very passionate coder that loved to craft something. I'd love to make any kind of project, start from some simple portfolio website or some complicated project that require more headache in the development. If you interested to talking to me you can DM me on my Instagram and ask me anything there 😉
+I have always been passionate about technology and the endless possibilities it offers. From a young age, I knew that I wanted to pursue a career in the field of information technology. As I progressed through junior high school, I began to delve deeper into the world of IT and develop my skills further.
+
+Throughout my studies, I have consistently demonstrated my curiosity and desire to learn more about the constantly evolving world of technology. I have actively sought out opportunities to gain new knowledge and experience, whether through online courses or hands-on projects.
+
+In addition to my academic pursuits, I have also pursued a number of personal projects related to IT. I have a strong desire to innovate and create, and I am always looking for new ways to apply my skills and knowledge to make a positive impact.
+
+Overall, I am a driven and dedicated individual with a strong passion for technology. I am confident that my skills and experience make me an ideal candidate for any role in the IT field.
 </p>
   
 
