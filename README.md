@@ -5,8 +5,8 @@
 </p>
 
 ```javascript
-const name = "Galih Adhi Kusuma"
-const job = "Front-End web developer"
+const name = "Haldies Gerhardien Pasya"
+const job = "Front-End web Engineer"
 console.log(`hello my name is ${name} and im currently working as ${job}`)
 ```
 
@@ -21,8 +21,8 @@ Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusu
 
 ### 📞 Contact me!
 
-[![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/clayzz1.0)
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galih-adhi-kusuma-693368240/)
+[![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/haldies_pasya/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haldies/)
 
   
 
