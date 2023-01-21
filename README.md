@@ -53,7 +53,4 @@ Overall, I am a driven and dedicated individual with a strong passion for techno
 
 
 ## Statistic
- 
-![Github profile stats](https://github-readme-stats-sigma-five.vercel.app/api?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=contribs,issues)
-<br />
-![Top langugage stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=shell,ejs,hack,html)
+
