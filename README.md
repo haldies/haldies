@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **machine learning, NLP, and LLMs**
 - 💬 Ask me about **AI, neural networks, and computer vision**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **gerhardien.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
