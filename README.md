@@ -5,9 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=haldies&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="haldies's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haldies&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="haldies's Top Languages" />
 </p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haldies&theme=tokyonight&hide_border=true" alt="haldies's GitHub Streak" />
-</div>
 
 - 🌱 I’m currently learning **machine learning, NLP, and LLMs**
 - 💬 Ask me about **AI, neural networks, and computer vision**
